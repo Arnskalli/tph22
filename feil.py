@@ -1,5 +1,5 @@
 # Skrevet av Arne-Johnny Bentzen
-#test
+#
 # -*- coding: utf-8 -*-
 
 # Funksjoner for konvertering
